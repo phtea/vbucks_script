@@ -3,7 +3,7 @@
 // @namespace    http://yourwebsite.com
 // @version      0.1
 // @description  Intercept and modify fetch requests using Tampermonkey
-// @author       Your Name
+// @author       phtea
 // @match        https://www.xbox.com/es-ar/games/store/*
 // @grant        none
 // ==/UserScript==
